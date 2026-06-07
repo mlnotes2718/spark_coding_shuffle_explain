@@ -1,0 +1,12 @@
+name: pyspark
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - python=3.11
+  - seaborn
+  - pandas
+  - openjdk=21
+  - pyspark
+prefix: /Users/sctp/miniconda3/envs/pyspark
