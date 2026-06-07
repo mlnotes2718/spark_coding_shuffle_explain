@@ -9,4 +9,5 @@ dependencies:
   - pandas
   - openjdk=21
   - pyspark
+  - pyarrow=15
 prefix: /Users/sctp/miniconda3/envs/pyspark
