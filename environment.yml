@@ -6,7 +6,7 @@ dependencies:
   - matplotlib
   - python=3.11
   - seaborn
-  - pandas
+  - pandas<3.0
   - openjdk=21
   - pyspark
   - pyarrow=15
